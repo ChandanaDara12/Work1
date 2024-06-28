@@ -1,0 +1,7 @@
+public class Code1 {
+public static void main (static []args) {
+
+    System.out.print("hello";)
+}
+
+}
